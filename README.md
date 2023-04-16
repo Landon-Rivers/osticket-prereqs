@@ -80,3 +80,11 @@ From the Installation Files, download PHP 7.3.8 zip folder and unzip the content
 From the Installation Files, download and install VC_redist.x86.exe
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/lYvRvje.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From the Installation Files, download and install MySQL 5.5.62
+</p>
+<br />
