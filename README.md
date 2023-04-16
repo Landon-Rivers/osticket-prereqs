@@ -37,16 +37,15 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DB9co5U.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In Windows features under World Wide Web Services/Application Development Features check mark the CGI box and click ok to install IIS (Internet            Information Serivices).
-
+In Windows features under World Wide Web Services -> Application Development Features check mark the CGI box and click ok to install IIS (Internet        Information Serivices).
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Zy08ydK.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 </p>
 <br />
 
