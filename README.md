@@ -88,3 +88,35 @@ From the Installation Files, download and install VC_redist.x86.exe
 From the Installation Files, download and install MySQL 5.5.62
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/z92Zjas.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+On the setup of MySQL 5.5.62 click next and choose Typical Setup.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/g9tOOOE.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click next and click install.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/qltWHLy.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After MySQL 5.5.62 installation is done Launch Configuration Wizard.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/LArS6o7.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+In MySQL Configuration Wizard choose Standard Configuration and click next. 
+</p>
+<br />
