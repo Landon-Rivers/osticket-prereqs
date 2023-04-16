@@ -93,7 +93,7 @@ From the Installation Files, download and install MySQL 5.5.62
 <img src="https://i.imgur.com/z92Zjas.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-On the setup of MySQL 5.5.62 click next and choose Typical Setup.
+On the setup of MySQL 5.5.62 click next and choose Typical Setup and click next.
 </p>
 <br />
 
@@ -101,7 +101,7 @@ On the setup of MySQL 5.5.62 click next and choose Typical Setup.
 <img src="https://i.imgur.com/g9tOOOE.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Click next and click install.
+Click install.
 </p>
 <br />
 
@@ -120,3 +120,12 @@ After MySQL 5.5.62 installation is done Launch Configuration Wizard.
 In MySQL Configuration Wizard choose Standard Configuration and click next. 
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/F5U4hG5.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Check mark Install As Windows Service and click next. 
+</p>
+<br />
+
