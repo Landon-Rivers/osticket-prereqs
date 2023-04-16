@@ -56,3 +56,11 @@ From the Installation Files, download and install PHP Manager for IIS (PHPManage
 From the Installation Files, download and install the Rewrite Module (rewrite_amd64_en-US.msi).
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/QH0H27O.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Create the directory C:\PHP.
+</p>
+<br />
