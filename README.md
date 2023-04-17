@@ -199,3 +199,18 @@ Extract the zip file and copy “upload” folder to c:\inetpub\wwwroot.
 .</p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/UvUGdyz.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”.
+.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/z8jRT0t.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Reload IIS (Open IIS, Stop and Start the server).
+.</p>
+<br />
