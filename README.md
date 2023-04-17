@@ -187,3 +187,14 @@ Reload IIS (Open IIS, Stop and Start the server) located on the right under Acti
 Download osTicket from the Installation Files Folder.
 .</p>
 <br />
+
+
+<p>
+<img src="https://i.imgur.com/IWk5QOX.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/wv5j0uI.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Extract the zip file and copy “upload” folder to c:\inetpub\wwwroot.
+.</p>
+<br />
+
