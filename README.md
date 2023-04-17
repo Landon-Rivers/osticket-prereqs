@@ -278,6 +278,7 @@ Refresh the osTicket installer page and observe the changes.
 </p>
 <p>
 Next step is to rename: ost-config.php
+
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
 
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
