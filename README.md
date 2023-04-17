@@ -279,6 +279,15 @@ Refresh the osTicket installer page and observe the changes.
 <p>
 Next step is to rename: ost-config.php
 From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+
 To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Tiqg1Nc.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Refresh the osTicket installer page and observe the changes.
 .</p>
 <br />
