@@ -171,3 +171,19 @@ Register PHP from within IIS.
 </p>
 <br />
 
+
+<p>
+<img src="https://i.imgur.com/z8jRT0t.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Reload IIS (Open IIS, Stop and Start the server) located on the right under Action tab.
+.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Zy08ydK.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Download osTicket from the Installation Files Folder.
+.</p>
+<br />
