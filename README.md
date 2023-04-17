@@ -43,6 +43,7 @@ In Windows features under World Wide Web Services -> Application Development Fea
 
 <p>
 <img src="https://i.imgur.com/Zy08ydK.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mqBW4S1.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 From the Installation Files, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
