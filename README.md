@@ -145,3 +145,20 @@ Check mark Modify Security Services, create a root password and click next.
 Click Execute.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/yuFqbI7.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click Finish.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/XBaQeEj.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After Configuration Wizard is finished setting up Open IIS as an Admin.
+</p>
+<br />
+
