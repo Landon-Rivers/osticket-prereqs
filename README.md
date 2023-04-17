@@ -162,3 +162,11 @@ After Configuration Wizard is finished setting up Open IIS as an Admin.
 </p>
 <br />
 
+<p>
+<img src="https://i.imgur.com/XC2Ct2i.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Register PHP from within IIS.
+</p>
+<br />
+
