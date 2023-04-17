@@ -214,3 +214,71 @@ Within c:\inetpub\wwwroot, Rename “upload” to “osTicket”.
 Reload IIS (Open IIS, Stop and Start the server).
 .</p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/EMKhROt.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/y8hMHC7.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Go to sites -> Default -> osTicket and on the right under browse website click “Browse *:80 and it should send you to osTicket installer page.
+.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/H2UgzD8.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Double-click PHP Manager.
+.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/y8hMHC7.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Click “Enable or disable an extension”
+.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Hp14gly.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Enable: php_imap.dll
+.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/8QjlKJB.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Enable: php_intl.dll
+.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/tssoHK7.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Enable: php_opcache.dll.
+.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Tiqg1Nc.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Refresh the osTicket installer page and observe the changes.
+.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/iU94MMz.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/e9E0Lvo.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Next step is to rename: ost-config.php
+From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php
+To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+.</p>
+<br />
