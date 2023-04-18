@@ -309,3 +309,19 @@ Now add New Permissions -> Everyone -> All and click apply .
 From the Installation Files, download and install HeidiSQL.
 .</p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/5MJxbhV.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From the Installation Files, download and install HeidiSQL.
+.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/5MJxbhV.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Open HeidiSQL and create a new session. On the right your usersname is root and your password is the same password you did for wizizard configuration in MySQL so be sure to remember it once you login to OSTicket'
+.</p>
+<br />
