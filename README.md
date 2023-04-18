@@ -286,9 +286,26 @@ To: C:\inetpub\wwwroot\osTicket\include\ost-config.php
 <br />
 
 <p>
-<img src="https://i.imgur.com/Tiqg1Nc.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3OTcVqx.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Refresh the osTicket installer page and observe the changes.
+Right click ost-config.php under security tab click advanced and Disable inheritance -> Remove All .
+.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/X4FaaSm.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now add New Permissions -> Everyone -> All and click apply .
+.</p>
+<br />
+
+
+<p>
+<img src="https://i.imgur.com/5MJxbhV.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From the Installation Files, download and install HeidiSQL.
 .</p>
 <br />
