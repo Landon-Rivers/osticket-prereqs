@@ -358,3 +358,28 @@ If the installation is successful you should come to a page that says Congratula
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
 .</p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/112Z4G0.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+End Users osTicket URL: http://localhost/osTicket/scp/login.php
+.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/feYItU6.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+For Cleanup Delete: C:\inetpub\wwwroot\osTicket\setup.
+.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/Xbx00Aa.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VlDGN3y.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Right clickost-config.php and set permissions to read only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+.</p>
+<br />
