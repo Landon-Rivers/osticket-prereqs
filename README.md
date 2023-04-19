@@ -325,3 +325,12 @@ From the Installation Files, download and install HeidiSQL.
 Open HeidiSQL and create a new session. On the right your usersname is root and your password is the same password you did for wizard configuration in MySQL so be sure to remember it once you login to OSTicket'
 .</p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/NQr8t0s.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/HkcBm4Z.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Right Click unnamed on the left and create a database called “osTicket”'
+.</p>
+<br />
