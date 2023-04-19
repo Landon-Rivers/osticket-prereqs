@@ -380,6 +380,6 @@ For Cleanup Delete: C:\inetpub\wwwroot\osTicket\setup.
 <img src="https://i.imgur.com/VlDGN3y.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Right clickost-config.php and set permissions to read only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+Right clickost-config.php and set permissions to read only: C:\inetpub\wwwroot\osTicket\include\ost-config.php and now eveerything should be completed.
 .</p>
 <br />
