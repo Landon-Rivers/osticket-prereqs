@@ -334,3 +334,27 @@ Open HeidiSQL and create a new session. On the right your usersname is root and 
 Right Click unnamed on the left and create a database called “osTicket”'
 .</p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/Udh3zOZ.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+On the OSTicket Installer website press continue fill in the information and click Install Now.
+.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/63Iqqpu.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+If the installation is successful you should come to a page that says Congratulations.
+.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/112Z4G0.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+.</p>
+<br />
