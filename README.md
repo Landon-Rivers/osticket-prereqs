@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DB9co5U.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/WS5Z8Qq.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In Windows features under World Wide Web Services -> Application Development Features check mark the CGI box and click ok to install IIS (Internet        Information Serivices).
