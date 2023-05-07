@@ -391,4 +391,4 @@ Right clickost-config.php and set permissions to read only: C:\inetpub\wwwroot\o
 .</p>
 <br />
 
-This concludes the installation of osTicket.
+This concludes the prerequisites and installation of osticket .
