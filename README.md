@@ -306,9 +306,24 @@ Now add New Permissions -> Everyone -> All and click apply .
 <img src="https://i.imgur.com/5MJxbhV.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From the Installation Files, download and install HeidiSQL.
+From the Installation Files, download HeidiSQL.
 .</p>
 <br />
+
+<p>
+The following photos will guide you through the installation process of HeidiSQL setup
+<img src="https://i.imgur.com/34GrFHz.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MHMPvOt.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eCyx2Om.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/QQnkmjh.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/06Gs43e.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/uNqkyg1.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+After the installation is done click finish and launch the application.
+.</p>
+<br />
+
 
 <p>
 <img src="https://i.imgur.com/q5PaHGo.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
@@ -348,6 +363,14 @@ If the installation is successful you should come to a page that says Congratula
 </p>
 <p>
 Browse to your help desk login page: http://localhost/osTicket/scp/login.php
+.</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/7x5ku01.png" height="100%" width="100%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+End Users osTicket URL: http://localhost/osTicket/ 
 .</p>
 <br />
 
